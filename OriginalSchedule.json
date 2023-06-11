@@ -1,0 +1,2401 @@
+[ {
+  "NAME" : "Titanic #216",
+  "ARRIVE_DATE_TIME" : "2021-04-01T00:32:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5705
+  },
+  "PARKING_TIME" : 171
+}, {
+  "NAME" : "Titanic #37",
+  "ARRIVE_DATE_TIME" : "2021-04-01T01:34:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 20713
+  },
+  "PARKING_TIME" : 621
+}, {
+  "NAME" : "Titanic #286",
+  "ARRIVE_DATE_TIME" : "2021-04-01T01:55:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 187
+  },
+  "PARKING_TIME" : 561
+}, {
+  "NAME" : "Titanic #64",
+  "ARRIVE_DATE_TIME" : "2021-04-01T02:15:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 159
+  },
+  "PARKING_TIME" : 477
+}, {
+  "NAME" : "Titanic #218",
+  "ARRIVE_DATE_TIME" : "2021-04-01T02:24:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 10506
+  },
+  "PARKING_TIME" : 315
+}, {
+  "NAME" : "Titanic #76",
+  "ARRIVE_DATE_TIME" : "2021-04-01T05:39:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 16589
+  },
+  "PARKING_TIME" : 497
+}, {
+  "NAME" : "Titanic #290",
+  "ARRIVE_DATE_TIME" : "2021-04-01T11:45:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18191
+  },
+  "PARKING_TIME" : 545
+}, {
+  "NAME" : "Titanic #130",
+  "ARRIVE_DATE_TIME" : "2021-04-01T17:17:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 125
+  },
+  "PARKING_TIME" : 375
+}, {
+  "NAME" : "Titanic #116",
+  "ARRIVE_DATE_TIME" : "2021-04-01T22:30:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 14175
+  },
+  "PARKING_TIME" : 425
+}, {
+  "NAME" : "Titanic #128",
+  "ARRIVE_DATE_TIME" : "2021-04-02T00:08:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 17377
+  },
+  "PARKING_TIME" : 521
+}, {
+  "NAME" : "Titanic #299",
+  "ARRIVE_DATE_TIME" : "2021-04-02T01:09:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 12
+  },
+  "PARKING_TIME" : 36
+}, {
+  "NAME" : "Titanic #233",
+  "ARRIVE_DATE_TIME" : "2021-04-02T09:39:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 16673
+  },
+  "PARKING_TIME" : 500
+}, {
+  "NAME" : "Titanic #89",
+  "ARRIVE_DATE_TIME" : "2021-04-02T15:11:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 24
+  },
+  "PARKING_TIME" : 72
+}, {
+  "NAME" : "Titanic #99",
+  "ARRIVE_DATE_TIME" : "2021-04-02T15:35:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 20360
+  },
+  "PARKING_TIME" : 610
+}, {
+  "NAME" : "Titanic #69",
+  "ARRIVE_DATE_TIME" : "2021-04-02T23:13:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10591
+  },
+  "PARKING_TIME" : 317
+}, {
+  "NAME" : "Titanic #102",
+  "ARRIVE_DATE_TIME" : "2021-04-03T04:35:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1134
+  },
+  "PARKING_TIME" : 34
+}, {
+  "NAME" : "Titanic #110",
+  "ARRIVE_DATE_TIME" : "2021-04-03T06:30:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 11915
+  },
+  "PARKING_TIME" : 357
+}, {
+  "NAME" : "Titanic #164",
+  "ARRIVE_DATE_TIME" : "2021-04-03T06:30:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10753
+  },
+  "PARKING_TIME" : 322
+}, {
+  "NAME" : "Titanic #217",
+  "ARRIVE_DATE_TIME" : "2021-04-03T07:58:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 7583
+  },
+  "PARKING_TIME" : 227
+}, {
+  "NAME" : "Titanic #147",
+  "ARRIVE_DATE_TIME" : "2021-04-03T09:50:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 4158
+  },
+  "PARKING_TIME" : 124
+}, {
+  "NAME" : "Titanic #134",
+  "ARRIVE_DATE_TIME" : "2021-04-03T10:03:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 26
+  },
+  "PARKING_TIME" : 78
+}, {
+  "NAME" : "Titanic #8",
+  "ARRIVE_DATE_TIME" : "2021-04-03T10:25:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 126
+  },
+  "PARKING_TIME" : 378
+}, {
+  "NAME" : "Titanic #80",
+  "ARRIVE_DATE_TIME" : "2021-04-03T14:56:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 17
+  },
+  "PARKING_TIME" : 51
+}, {
+  "NAME" : "Titanic #138",
+  "ARRIVE_DATE_TIME" : "2021-04-03T16:04:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 192
+  },
+  "PARKING_TIME" : 576
+}, {
+  "NAME" : "Titanic #292",
+  "ARRIVE_DATE_TIME" : "2021-04-03T16:40:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18440
+  },
+  "PARKING_TIME" : 553
+}, {
+  "NAME" : "Titanic #182",
+  "ARRIVE_DATE_TIME" : "2021-04-03T19:40:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 81
+  },
+  "PARKING_TIME" : 243
+}, {
+  "NAME" : "Titanic #234",
+  "ARRIVE_DATE_TIME" : "2021-04-03T21:45:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 42
+  },
+  "PARKING_TIME" : 126
+}, {
+  "NAME" : "Titanic #247",
+  "ARRIVE_DATE_TIME" : "2021-04-03T22:36:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 176
+  },
+  "PARKING_TIME" : 528
+}, {
+  "NAME" : "Titanic #245",
+  "ARRIVE_DATE_TIME" : "2021-04-04T02:07:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18663
+  },
+  "PARKING_TIME" : 559
+}, {
+  "NAME" : "Titanic #92",
+  "ARRIVE_DATE_TIME" : "2021-04-04T02:41:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 10776
+  },
+  "PARKING_TIME" : 323
+}, {
+  "NAME" : "Titanic #39",
+  "ARRIVE_DATE_TIME" : "2021-04-04T06:39:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 20151
+  },
+  "PARKING_TIME" : 604
+}, {
+  "NAME" : "Titanic #170",
+  "ARRIVE_DATE_TIME" : "2021-04-04T11:41:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19490
+  },
+  "PARKING_TIME" : 584
+}, {
+  "NAME" : "Titanic #109",
+  "ARRIVE_DATE_TIME" : "2021-04-04T12:57:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 93
+  },
+  "PARKING_TIME" : 279
+}, {
+  "NAME" : "Titanic #283",
+  "ARRIVE_DATE_TIME" : "2021-04-04T13:29:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 12586
+  },
+  "PARKING_TIME" : 377
+}, {
+  "NAME" : "Titanic #13",
+  "ARRIVE_DATE_TIME" : "2021-04-04T14:23:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 4550
+  },
+  "PARKING_TIME" : 136
+}, {
+  "NAME" : "Titanic #237",
+  "ARRIVE_DATE_TIME" : "2021-04-04T16:46:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 20677
+  },
+  "PARKING_TIME" : 620
+}, {
+  "NAME" : "Titanic #289",
+  "ARRIVE_DATE_TIME" : "2021-04-04T18:42:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 1646
+  },
+  "PARKING_TIME" : 49
+}, {
+  "NAME" : "Titanic #267",
+  "ARRIVE_DATE_TIME" : "2021-04-04T19:43:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 17326
+  },
+  "PARKING_TIME" : 519
+}, {
+  "NAME" : "Titanic #281",
+  "ARRIVE_DATE_TIME" : "2021-04-04T22:54:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 6947
+  },
+  "PARKING_TIME" : 208
+}, {
+  "NAME" : "Titanic #52",
+  "ARRIVE_DATE_TIME" : "2021-04-05T02:47:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 11495
+  },
+  "PARKING_TIME" : 344
+}, {
+  "NAME" : "Titanic #167",
+  "ARRIVE_DATE_TIME" : "2021-04-05T04:25:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 207
+  },
+  "PARKING_TIME" : 621
+}, {
+  "NAME" : "Titanic #273",
+  "ARRIVE_DATE_TIME" : "2021-04-05T04:30:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5268
+  },
+  "PARKING_TIME" : 158
+}, {
+  "NAME" : "Titanic #73",
+  "ARRIVE_DATE_TIME" : "2021-04-05T17:02:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 35
+  },
+  "PARKING_TIME" : 105
+}, {
+  "NAME" : "Titanic #227",
+  "ARRIVE_DATE_TIME" : "2021-04-05T19:45:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 114
+  },
+  "PARKING_TIME" : 342
+}, {
+  "NAME" : "Titanic #107",
+  "ARRIVE_DATE_TIME" : "2021-04-05T23:48:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 1658
+  },
+  "PARKING_TIME" : 49
+}, {
+  "NAME" : "Titanic #17",
+  "ARRIVE_DATE_TIME" : "2021-04-06T01:41:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 13897
+  },
+  "PARKING_TIME" : 416
+}, {
+  "NAME" : "Titanic #126",
+  "ARRIVE_DATE_TIME" : "2021-04-06T03:19:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 201
+  },
+  "PARKING_TIME" : 603
+}, {
+  "NAME" : "Titanic #212",
+  "ARRIVE_DATE_TIME" : "2021-04-06T09:32:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 11129
+  },
+  "PARKING_TIME" : 333
+}, {
+  "NAME" : "Titanic #60",
+  "ARRIVE_DATE_TIME" : "2021-04-06T09:46:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19696
+  },
+  "PARKING_TIME" : 590
+}, {
+  "NAME" : "Titanic #154",
+  "ARRIVE_DATE_TIME" : "2021-04-06T09:46:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 70
+  },
+  "PARKING_TIME" : 210
+}, {
+  "NAME" : "Titanic #71",
+  "ARRIVE_DATE_TIME" : "2021-04-06T14:06:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10413
+  },
+  "PARKING_TIME" : 312
+}, {
+  "NAME" : "Titanic #133",
+  "ARRIVE_DATE_TIME" : "2021-04-06T15:02:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 11724
+  },
+  "PARKING_TIME" : 351
+}, {
+  "NAME" : "Titanic #211",
+  "ARRIVE_DATE_TIME" : "2021-04-06T16:07:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 9986
+  },
+  "PARKING_TIME" : 299
+}, {
+  "NAME" : "Titanic #288",
+  "ARRIVE_DATE_TIME" : "2021-04-06T20:08:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10947
+  },
+  "PARKING_TIME" : 328
+}, {
+  "NAME" : "Titanic #239",
+  "ARRIVE_DATE_TIME" : "2021-04-06T21:38:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 4258
+  },
+  "PARKING_TIME" : 127
+}, {
+  "NAME" : "Titanic #171",
+  "ARRIVE_DATE_TIME" : "2021-04-06T23:04:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 157
+  },
+  "PARKING_TIME" : 471
+}, {
+  "NAME" : "Titanic #220",
+  "ARRIVE_DATE_TIME" : "2021-04-07T02:15:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 94
+  },
+  "PARKING_TIME" : 282
+}, {
+  "NAME" : "Titanic #140",
+  "ARRIVE_DATE_TIME" : "2021-04-07T02:46:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 203
+  },
+  "PARKING_TIME" : 609
+}, {
+  "NAME" : "Titanic #278",
+  "ARRIVE_DATE_TIME" : "2021-04-07T02:57:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 12062
+  },
+  "PARKING_TIME" : 361
+}, {
+  "NAME" : "Titanic #230",
+  "ARRIVE_DATE_TIME" : "2021-04-07T04:18:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 164
+  },
+  "PARKING_TIME" : 491
+}, {
+  "NAME" : "Titanic #177",
+  "ARRIVE_DATE_TIME" : "2021-04-07T04:40:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10952
+  },
+  "PARKING_TIME" : 328
+}, {
+  "NAME" : "Titanic #241",
+  "ARRIVE_DATE_TIME" : "2021-04-07T07:05:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 19
+  },
+  "PARKING_TIME" : 57
+}, {
+  "NAME" : "Titanic #258",
+  "ARRIVE_DATE_TIME" : "2021-04-07T07:57:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 2492
+  },
+  "PARKING_TIME" : 74
+}, {
+  "NAME" : "Titanic #125",
+  "ARRIVE_DATE_TIME" : "2021-04-07T08:48:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 13285
+  },
+  "PARKING_TIME" : 398
+}, {
+  "NAME" : "Titanic #159",
+  "ARRIVE_DATE_TIME" : "2021-04-07T17:37:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 108
+  },
+  "PARKING_TIME" : 324
+}, {
+  "NAME" : "Titanic #1",
+  "ARRIVE_DATE_TIME" : "2021-04-07T20:06:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 7759
+  },
+  "PARKING_TIME" : 232
+}, {
+  "NAME" : "Titanic #198",
+  "ARRIVE_DATE_TIME" : "2021-04-07T21:58:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 7843
+  },
+  "PARKING_TIME" : 235
+}, {
+  "NAME" : "Titanic #21",
+  "ARRIVE_DATE_TIME" : "2021-04-07T22:55:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 13663
+  },
+  "PARKING_TIME" : 409
+}, {
+  "NAME" : "Titanic #272",
+  "ARRIVE_DATE_TIME" : "2021-04-08T00:25:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10557
+  },
+  "PARKING_TIME" : 316
+}, {
+  "NAME" : "Titanic #275",
+  "ARRIVE_DATE_TIME" : "2021-04-08T03:36:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 85
+  },
+  "PARKING_TIME" : 255
+}, {
+  "NAME" : "Titanic #204",
+  "ARRIVE_DATE_TIME" : "2021-04-08T04:38:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19735
+  },
+  "PARKING_TIME" : 592
+}, {
+  "NAME" : "Titanic #100",
+  "ARRIVE_DATE_TIME" : "2021-04-08T06:15:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 15645
+  },
+  "PARKING_TIME" : 469
+}, {
+  "NAME" : "Titanic #229",
+  "ARRIVE_DATE_TIME" : "2021-04-08T07:13:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 197
+  },
+  "PARKING_TIME" : 591
+}, {
+  "NAME" : "Titanic #117",
+  "ARRIVE_DATE_TIME" : "2021-04-08T08:01:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 158
+  },
+  "PARKING_TIME" : 474
+}, {
+  "NAME" : "Titanic #40",
+  "ARRIVE_DATE_TIME" : "2021-04-08T10:36:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 1740
+  },
+  "PARKING_TIME" : 52
+}, {
+  "NAME" : "Titanic #47",
+  "ARRIVE_DATE_TIME" : "2021-04-08T13:12:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 182
+  },
+  "PARKING_TIME" : 546
+}, {
+  "NAME" : "Titanic #206",
+  "ARRIVE_DATE_TIME" : "2021-04-08T16:53:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 17016
+  },
+  "PARKING_TIME" : 510
+}, {
+  "NAME" : "Titanic #215",
+  "ARRIVE_DATE_TIME" : "2021-04-08T16:57:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 166
+  },
+  "PARKING_TIME" : 498
+}, {
+  "NAME" : "Titanic #2",
+  "ARRIVE_DATE_TIME" : "2021-04-08T17:40:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 209
+  },
+  "PARKING_TIME" : 627
+}, {
+  "NAME" : "Titanic #178",
+  "ARRIVE_DATE_TIME" : "2021-04-08T19:49:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 6763
+  },
+  "PARKING_TIME" : 202
+}, {
+  "NAME" : "Titanic #207",
+  "ARRIVE_DATE_TIME" : "2021-04-08T20:01:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 14836
+  },
+  "PARKING_TIME" : 445
+}, {
+  "NAME" : "Titanic #132",
+  "ARRIVE_DATE_TIME" : "2021-04-08T20:04:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 114
+  },
+  "PARKING_TIME" : 342
+}, {
+  "NAME" : "Titanic #213",
+  "ARRIVE_DATE_TIME" : "2021-04-08T22:45:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 15436
+  },
+  "PARKING_TIME" : 463
+}, {
+  "NAME" : "Titanic #173",
+  "ARRIVE_DATE_TIME" : "2021-04-08T22:47:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 115
+  },
+  "PARKING_TIME" : 345
+}, {
+  "NAME" : "Titanic #223",
+  "ARRIVE_DATE_TIME" : "2021-04-09T00:19:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 184
+  },
+  "PARKING_TIME" : 552
+}, {
+  "NAME" : "Titanic #264",
+  "ARRIVE_DATE_TIME" : "2021-04-09T01:33:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18912
+  },
+  "PARKING_TIME" : 567
+}, {
+  "NAME" : "Titanic #9",
+  "ARRIVE_DATE_TIME" : "2021-04-09T01:48:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 5459
+  },
+  "PARKING_TIME" : 163
+}, {
+  "NAME" : "Titanic #225",
+  "ARRIVE_DATE_TIME" : "2021-04-09T02:07:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 6452
+  },
+  "PARKING_TIME" : 193
+}, {
+  "NAME" : "Titanic #254",
+  "ARRIVE_DATE_TIME" : "2021-04-09T02:24:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 189
+  },
+  "PARKING_TIME" : 567
+}, {
+  "NAME" : "Titanic #249",
+  "ARRIVE_DATE_TIME" : "2021-04-09T04:58:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 199
+  },
+  "PARKING_TIME" : 597
+}, {
+  "NAME" : "Titanic #277",
+  "ARRIVE_DATE_TIME" : "2021-04-09T09:10:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 2101
+  },
+  "PARKING_TIME" : 63
+}, {
+  "NAME" : "Titanic #87",
+  "ARRIVE_DATE_TIME" : "2021-04-09T13:20:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 16905
+  },
+  "PARKING_TIME" : 507
+}, {
+  "NAME" : "Titanic #294",
+  "ARRIVE_DATE_TIME" : "2021-04-09T17:06:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 18391
+  },
+  "PARKING_TIME" : 551
+}, {
+  "NAME" : "Titanic #98",
+  "ARRIVE_DATE_TIME" : "2021-04-09T18:46:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 196
+  },
+  "PARKING_TIME" : 588
+}, {
+  "NAME" : "Titanic #252",
+  "ARRIVE_DATE_TIME" : "2021-04-10T03:37:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 20614
+  },
+  "PARKING_TIME" : 618
+}, {
+  "NAME" : "Titanic #136",
+  "ARRIVE_DATE_TIME" : "2021-04-10T03:42:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 16603
+  },
+  "PARKING_TIME" : 498
+}, {
+  "NAME" : "Titanic #75",
+  "ARRIVE_DATE_TIME" : "2021-04-10T03:47:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 166
+  },
+  "PARKING_TIME" : 498
+}, {
+  "NAME" : "Titanic #276",
+  "ARRIVE_DATE_TIME" : "2021-04-10T07:28:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 6727
+  },
+  "PARKING_TIME" : 201
+}, {
+  "NAME" : "Titanic #263",
+  "ARRIVE_DATE_TIME" : "2021-04-10T07:38:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 127
+  },
+  "PARKING_TIME" : 381
+}, {
+  "NAME" : "Titanic #14",
+  "ARRIVE_DATE_TIME" : "2021-04-10T11:51:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 4200
+  },
+  "PARKING_TIME" : 126
+}, {
+  "NAME" : "Titanic #124",
+  "ARRIVE_DATE_TIME" : "2021-04-10T12:53:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 2257
+  },
+  "PARKING_TIME" : 67
+}, {
+  "NAME" : "Titanic #235",
+  "ARRIVE_DATE_TIME" : "2021-04-10T15:56:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 8671
+  },
+  "PARKING_TIME" : 260
+}, {
+  "NAME" : "Titanic #56",
+  "ARRIVE_DATE_TIME" : "2021-04-10T17:38:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10138
+  },
+  "PARKING_TIME" : 304
+}, {
+  "NAME" : "Titanic #246",
+  "ARRIVE_DATE_TIME" : "2021-04-10T19:40:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 175
+  },
+  "PARKING_TIME" : 525
+}, {
+  "NAME" : "Titanic #44",
+  "ARRIVE_DATE_TIME" : "2021-04-10T22:54:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 135
+  },
+  "PARKING_TIME" : 405
+}, {
+  "NAME" : "Titanic #79",
+  "ARRIVE_DATE_TIME" : "2021-04-11T05:30:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 10493
+  },
+  "PARKING_TIME" : 314
+}, {
+  "NAME" : "Titanic #243",
+  "ARRIVE_DATE_TIME" : "2021-04-11T10:47:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 10712
+  },
+  "PARKING_TIME" : 321
+}, {
+  "NAME" : "Titanic #121",
+  "ARRIVE_DATE_TIME" : "2021-04-11T11:24:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 19310
+  },
+  "PARKING_TIME" : 579
+}, {
+  "NAME" : "Titanic #280",
+  "ARRIVE_DATE_TIME" : "2021-04-11T14:38:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5893
+  },
+  "PARKING_TIME" : 176
+}, {
+  "NAME" : "Titanic #221",
+  "ARRIVE_DATE_TIME" : "2021-04-11T15:23:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 180
+  },
+  "PARKING_TIME" : 540
+}, {
+  "NAME" : "Titanic #103",
+  "ARRIVE_DATE_TIME" : "2021-04-11T16:05:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 3270
+  },
+  "PARKING_TIME" : 98
+}, {
+  "NAME" : "Titanic #70",
+  "ARRIVE_DATE_TIME" : "2021-04-11T17:36:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19423
+  },
+  "PARKING_TIME" : 582
+}, {
+  "NAME" : "Titanic #152",
+  "ARRIVE_DATE_TIME" : "2021-04-11T19:24:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 8745
+  },
+  "PARKING_TIME" : 262
+}, {
+  "NAME" : "Titanic #287",
+  "ARRIVE_DATE_TIME" : "2021-04-11T19:29:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19441
+  },
+  "PARKING_TIME" : 583
+}, {
+  "NAME" : "Titanic #161",
+  "ARRIVE_DATE_TIME" : "2021-04-11T19:31:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18974
+  },
+  "PARKING_TIME" : 569
+}, {
+  "NAME" : "Titanic #282",
+  "ARRIVE_DATE_TIME" : "2021-04-11T21:59:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 18064
+  },
+  "PARKING_TIME" : 541
+}, {
+  "NAME" : "Titanic #191",
+  "ARRIVE_DATE_TIME" : "2021-04-12T02:29:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 9932
+  },
+  "PARKING_TIME" : 297
+}, {
+  "NAME" : "Titanic #30",
+  "ARRIVE_DATE_TIME" : "2021-04-12T05:49:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 3828
+  },
+  "PARKING_TIME" : 114
+}, {
+  "NAME" : "Titanic #251",
+  "ARRIVE_DATE_TIME" : "2021-04-12T08:05:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 20014
+  },
+  "PARKING_TIME" : 600
+}, {
+  "NAME" : "Titanic #203",
+  "ARRIVE_DATE_TIME" : "2021-04-12T08:38:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 7789
+  },
+  "PARKING_TIME" : 233
+}, {
+  "NAME" : "Titanic #169",
+  "ARRIVE_DATE_TIME" : "2021-04-12T09:45:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 8890
+  },
+  "PARKING_TIME" : 266
+}, {
+  "NAME" : "Titanic #162",
+  "ARRIVE_DATE_TIME" : "2021-04-12T10:34:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 37
+  },
+  "PARKING_TIME" : 111
+}, {
+  "NAME" : "Titanic #7",
+  "ARRIVE_DATE_TIME" : "2021-04-12T11:37:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 8402
+  },
+  "PARKING_TIME" : 252
+}, {
+  "NAME" : "Titanic #295",
+  "ARRIVE_DATE_TIME" : "2021-04-12T12:06:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 24
+  },
+  "PARKING_TIME" : 72
+}, {
+  "NAME" : "Titanic #59",
+  "ARRIVE_DATE_TIME" : "2021-04-12T12:57:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 189
+  },
+  "PARKING_TIME" : 567
+}, {
+  "NAME" : "Titanic #255",
+  "ARRIVE_DATE_TIME" : "2021-04-12T14:33:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 12704
+  },
+  "PARKING_TIME" : 381
+}, {
+  "NAME" : "Titanic #253",
+  "ARRIVE_DATE_TIME" : "2021-04-12T16:29:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 39
+  },
+  "PARKING_TIME" : 117
+}, {
+  "NAME" : "Titanic #259",
+  "ARRIVE_DATE_TIME" : "2021-04-12T19:28:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 21
+  },
+  "PARKING_TIME" : 63
+}, {
+  "NAME" : "Titanic #261",
+  "ARRIVE_DATE_TIME" : "2021-04-12T20:07:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 3020
+  },
+  "PARKING_TIME" : 90
+}, {
+  "NAME" : "Titanic #297",
+  "ARRIVE_DATE_TIME" : "2021-04-13T00:02:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 141
+  },
+  "PARKING_TIME" : 423
+}, {
+  "NAME" : "Titanic #34",
+  "ARRIVE_DATE_TIME" : "2021-04-13T00:54:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 8185
+  },
+  "PARKING_TIME" : 245
+}, {
+  "NAME" : "Titanic #49",
+  "ARRIVE_DATE_TIME" : "2021-04-13T05:42:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 12360
+  },
+  "PARKING_TIME" : 370
+}, {
+  "NAME" : "Titanic #123",
+  "ARRIVE_DATE_TIME" : "2021-04-13T10:03:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 14000
+  },
+  "PARKING_TIME" : 420
+}, {
+  "NAME" : "Titanic #45",
+  "ARRIVE_DATE_TIME" : "2021-04-13T10:29:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 3358
+  },
+  "PARKING_TIME" : 100
+}, {
+  "NAME" : "Titanic #31",
+  "ARRIVE_DATE_TIME" : "2021-04-13T10:31:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 1979
+  },
+  "PARKING_TIME" : 59
+}, {
+  "NAME" : "Titanic #175",
+  "ARRIVE_DATE_TIME" : "2021-04-13T14:20:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 14428
+  },
+  "PARKING_TIME" : 432
+}, {
+  "NAME" : "Titanic #22",
+  "ARRIVE_DATE_TIME" : "2021-04-13T16:42:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 15629
+  },
+  "PARKING_TIME" : 468
+}, {
+  "NAME" : "Titanic #228",
+  "ARRIVE_DATE_TIME" : "2021-04-13T17:03:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5266
+  },
+  "PARKING_TIME" : 157
+}, {
+  "NAME" : "Titanic #46",
+  "ARRIVE_DATE_TIME" : "2021-04-13T17:10:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 140
+  },
+  "PARKING_TIME" : 420
+}, {
+  "NAME" : "Titanic #129",
+  "ARRIVE_DATE_TIME" : "2021-04-13T18:20:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 8333
+  },
+  "PARKING_TIME" : 249
+}, {
+  "NAME" : "Titanic #186",
+  "ARRIVE_DATE_TIME" : "2021-04-14T00:26:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 116
+  },
+  "PARKING_TIME" : 348
+}, {
+  "NAME" : "Titanic #231",
+  "ARRIVE_DATE_TIME" : "2021-04-14T08:50:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 2968
+  },
+  "PARKING_TIME" : 89
+}, {
+  "NAME" : "Titanic #65",
+  "ARRIVE_DATE_TIME" : "2021-04-14T13:17:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 17948
+  },
+  "PARKING_TIME" : 538
+}, {
+  "NAME" : "Titanic #5",
+  "ARRIVE_DATE_TIME" : "2021-04-14T16:32:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 2160
+  },
+  "PARKING_TIME" : 64
+}, {
+  "NAME" : "Titanic #16",
+  "ARRIVE_DATE_TIME" : "2021-04-14T20:51:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 10632
+  },
+  "PARKING_TIME" : 318
+}, {
+  "NAME" : "Titanic #20",
+  "ARRIVE_DATE_TIME" : "2021-04-14T22:44:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 2855
+  },
+  "PARKING_TIME" : 85
+}, {
+  "NAME" : "Titanic #250",
+  "ARRIVE_DATE_TIME" : "2021-04-15T02:51:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 16
+  },
+  "PARKING_TIME" : 48
+}, {
+  "NAME" : "Titanic #28",
+  "ARRIVE_DATE_TIME" : "2021-04-15T04:24:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 17054
+  },
+  "PARKING_TIME" : 511
+}, {
+  "NAME" : "Titanic #11",
+  "ARRIVE_DATE_TIME" : "2021-04-15T07:23:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 12913
+  },
+  "PARKING_TIME" : 387
+}, {
+  "NAME" : "Titanic #112",
+  "ARRIVE_DATE_TIME" : "2021-04-15T08:30:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 20180
+  },
+  "PARKING_TIME" : 605
+}, {
+  "NAME" : "Titanic #156",
+  "ARRIVE_DATE_TIME" : "2021-04-15T09:26:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 49
+  },
+  "PARKING_TIME" : 147
+}, {
+  "NAME" : "Titanic #144",
+  "ARRIVE_DATE_TIME" : "2021-04-15T11:22:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1824
+  },
+  "PARKING_TIME" : 54
+}, {
+  "NAME" : "Titanic #26",
+  "ARRIVE_DATE_TIME" : "2021-04-15T12:01:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 12742
+  },
+  "PARKING_TIME" : 382
+}, {
+  "NAME" : "Titanic #131",
+  "ARRIVE_DATE_TIME" : "2021-04-15T13:37:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 170
+  },
+  "PARKING_TIME" : 510
+}, {
+  "NAME" : "Titanic #24",
+  "ARRIVE_DATE_TIME" : "2021-04-15T16:25:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5087
+  },
+  "PARKING_TIME" : 152
+}, {
+  "NAME" : "Titanic #193",
+  "ARRIVE_DATE_TIME" : "2021-04-15T22:02:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1241
+  },
+  "PARKING_TIME" : 37
+}, {
+  "NAME" : "Titanic #185",
+  "ARRIVE_DATE_TIME" : "2021-04-16T03:27:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 12298
+  },
+  "PARKING_TIME" : 368
+}, {
+  "NAME" : "Titanic #53",
+  "ARRIVE_DATE_TIME" : "2021-04-16T04:51:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1618
+  },
+  "PARKING_TIME" : 48
+}, {
+  "NAME" : "Titanic #266",
+  "ARRIVE_DATE_TIME" : "2021-04-16T05:47:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 59
+  },
+  "PARKING_TIME" : 177
+}, {
+  "NAME" : "Titanic #114",
+  "ARRIVE_DATE_TIME" : "2021-04-16T06:35:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1606
+  },
+  "PARKING_TIME" : 48
+}, {
+  "NAME" : "Titanic #240",
+  "ARRIVE_DATE_TIME" : "2021-04-16T12:03:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 2984
+  },
+  "PARKING_TIME" : 89
+}, {
+  "NAME" : "Titanic #66",
+  "ARRIVE_DATE_TIME" : "2021-04-16T16:08:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 2357
+  },
+  "PARKING_TIME" : 70
+}, {
+  "NAME" : "Titanic #96",
+  "ARRIVE_DATE_TIME" : "2021-04-16T19:18:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5709
+  },
+  "PARKING_TIME" : 171
+}, {
+  "NAME" : "Titanic #86",
+  "ARRIVE_DATE_TIME" : "2021-04-16T22:12:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 6741
+  },
+  "PARKING_TIME" : 202
+}, {
+  "NAME" : "Titanic #222",
+  "ARRIVE_DATE_TIME" : "2021-04-16T23:58:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 117
+  },
+  "PARKING_TIME" : 351
+}, {
+  "NAME" : "Titanic #155",
+  "ARRIVE_DATE_TIME" : "2021-04-17T01:27:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 156
+  },
+  "PARKING_TIME" : 468
+}, {
+  "NAME" : "Titanic #32",
+  "ARRIVE_DATE_TIME" : "2021-04-17T03:54:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 11474
+  },
+  "PARKING_TIME" : 344
+}, {
+  "NAME" : "Titanic #201",
+  "ARRIVE_DATE_TIME" : "2021-04-17T04:09:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 3047
+  },
+  "PARKING_TIME" : 91
+}, {
+  "NAME" : "Titanic #151",
+  "ARRIVE_DATE_TIME" : "2021-04-17T19:14:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 17971
+  },
+  "PARKING_TIME" : 539
+}, {
+  "NAME" : "Titanic #77",
+  "ARRIVE_DATE_TIME" : "2021-04-17T19:40:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 95
+  },
+  "PARKING_TIME" : 285
+}, {
+  "NAME" : "Titanic #84",
+  "ARRIVE_DATE_TIME" : "2021-04-17T20:27:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 142
+  },
+  "PARKING_TIME" : 426
+}, {
+  "NAME" : "Titanic #190",
+  "ARRIVE_DATE_TIME" : "2021-04-17T21:23:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 3669
+  },
+  "PARKING_TIME" : 110
+}, {
+  "NAME" : "Titanic #210",
+  "ARRIVE_DATE_TIME" : "2021-04-18T00:26:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 19599
+  },
+  "PARKING_TIME" : 587
+}, {
+  "NAME" : "Titanic #137",
+  "ARRIVE_DATE_TIME" : "2021-04-18T01:11:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 31
+  },
+  "PARKING_TIME" : 93
+}, {
+  "NAME" : "Titanic #172",
+  "ARRIVE_DATE_TIME" : "2021-04-18T02:14:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 9946
+  },
+  "PARKING_TIME" : 298
+}, {
+  "NAME" : "Titanic #214",
+  "ARRIVE_DATE_TIME" : "2021-04-18T03:19:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 3607
+  },
+  "PARKING_TIME" : 108
+}, {
+  "NAME" : "Titanic #166",
+  "ARRIVE_DATE_TIME" : "2021-04-18T04:05:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 13561
+  },
+  "PARKING_TIME" : 406
+}, {
+  "NAME" : "Titanic #142",
+  "ARRIVE_DATE_TIME" : "2021-04-18T04:48:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 113
+  },
+  "PARKING_TIME" : 339
+}, {
+  "NAME" : "Titanic #202",
+  "ARRIVE_DATE_TIME" : "2021-04-18T07:50:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 37
+  },
+  "PARKING_TIME" : 111
+}, {
+  "NAME" : "Titanic #189",
+  "ARRIVE_DATE_TIME" : "2021-04-18T08:06:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 130
+  },
+  "PARKING_TIME" : 390
+}, {
+  "NAME" : "Titanic #219",
+  "ARRIVE_DATE_TIME" : "2021-04-18T08:15:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 16470
+  },
+  "PARKING_TIME" : 494
+}, {
+  "NAME" : "Titanic #23",
+  "ARRIVE_DATE_TIME" : "2021-04-18T08:59:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 105
+  },
+  "PARKING_TIME" : 315
+}, {
+  "NAME" : "Titanic #208",
+  "ARRIVE_DATE_TIME" : "2021-04-18T15:59:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 15340
+  },
+  "PARKING_TIME" : 460
+}, {
+  "NAME" : "Titanic #181",
+  "ARRIVE_DATE_TIME" : "2021-04-18T16:54:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 9020
+  },
+  "PARKING_TIME" : 270
+}, {
+  "NAME" : "Titanic #298",
+  "ARRIVE_DATE_TIME" : "2021-04-18T19:06:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 2622
+  },
+  "PARKING_TIME" : 78
+}, {
+  "NAME" : "Titanic #10",
+  "ARRIVE_DATE_TIME" : "2021-04-18T20:51:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 12197
+  },
+  "PARKING_TIME" : 365
+}, {
+  "NAME" : "Titanic #269",
+  "ARRIVE_DATE_TIME" : "2021-04-19T00:58:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 79
+  },
+  "PARKING_TIME" : 237
+}, {
+  "NAME" : "Titanic #158",
+  "ARRIVE_DATE_TIME" : "2021-04-19T03:22:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 5520
+  },
+  "PARKING_TIME" : 165
+}, {
+  "NAME" : "Titanic #146",
+  "ARRIVE_DATE_TIME" : "2021-04-19T04:01:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 7381
+  },
+  "PARKING_TIME" : 221
+}, {
+  "NAME" : "Titanic #150",
+  "ARRIVE_DATE_TIME" : "2021-04-19T05:27:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 119
+  },
+  "PARKING_TIME" : 357
+}, {
+  "NAME" : "Titanic #257",
+  "ARRIVE_DATE_TIME" : "2021-04-19T06:46:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 16333
+  },
+  "PARKING_TIME" : 489
+}, {
+  "NAME" : "Titanic #104",
+  "ARRIVE_DATE_TIME" : "2021-04-19T12:54:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 4794
+  },
+  "PARKING_TIME" : 143
+}, {
+  "NAME" : "Titanic #82",
+  "ARRIVE_DATE_TIME" : "2021-04-19T13:10:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18739
+  },
+  "PARKING_TIME" : 562
+}, {
+  "NAME" : "Titanic #18",
+  "ARRIVE_DATE_TIME" : "2021-04-19T13:49:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 160
+  },
+  "PARKING_TIME" : 480
+}, {
+  "NAME" : "Titanic #268",
+  "ARRIVE_DATE_TIME" : "2021-04-19T14:26:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19555
+  },
+  "PARKING_TIME" : 586
+}, {
+  "NAME" : "Titanic #300",
+  "ARRIVE_DATE_TIME" : "2021-04-19T18:25:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 20306
+  },
+  "PARKING_TIME" : 609
+}, {
+  "NAME" : "Titanic #242",
+  "ARRIVE_DATE_TIME" : "2021-04-19T20:09:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1453
+  },
+  "PARKING_TIME" : 43
+}, {
+  "NAME" : "Titanic #192",
+  "ARRIVE_DATE_TIME" : "2021-04-20T00:30:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18783
+  },
+  "PARKING_TIME" : 563
+}, {
+  "NAME" : "Titanic #236",
+  "ARRIVE_DATE_TIME" : "2021-04-20T06:09:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 189
+  },
+  "PARKING_TIME" : 567
+}, {
+  "NAME" : "Titanic #95",
+  "ARRIVE_DATE_TIME" : "2021-04-20T08:49:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 51
+  },
+  "PARKING_TIME" : 153
+}, {
+  "NAME" : "Titanic #176",
+  "ARRIVE_DATE_TIME" : "2021-04-20T10:21:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 17759
+  },
+  "PARKING_TIME" : 532
+}, {
+  "NAME" : "Titanic #54",
+  "ARRIVE_DATE_TIME" : "2021-04-20T14:42:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 108
+  },
+  "PARKING_TIME" : 324
+}, {
+  "NAME" : "Titanic #187",
+  "ARRIVE_DATE_TIME" : "2021-04-20T16:57:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 7713
+  },
+  "PARKING_TIME" : 231
+}, {
+  "NAME" : "Titanic #57",
+  "ARRIVE_DATE_TIME" : "2021-04-20T19:44:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 3133
+  },
+  "PARKING_TIME" : 93
+}, {
+  "NAME" : "Titanic #12",
+  "ARRIVE_DATE_TIME" : "2021-04-20T22:29:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 2038
+  },
+  "PARKING_TIME" : 61
+}, {
+  "NAME" : "Titanic #149",
+  "ARRIVE_DATE_TIME" : "2021-04-21T00:50:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 3821
+  },
+  "PARKING_TIME" : 114
+}, {
+  "NAME" : "Titanic #42",
+  "ARRIVE_DATE_TIME" : "2021-04-21T04:56:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 17766
+  },
+  "PARKING_TIME" : 532
+}, {
+  "NAME" : "Titanic #293",
+  "ARRIVE_DATE_TIME" : "2021-04-21T05:27:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 89
+  },
+  "PARKING_TIME" : 267
+}, {
+  "NAME" : "Titanic #200",
+  "ARRIVE_DATE_TIME" : "2021-04-21T06:41:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 71
+  },
+  "PARKING_TIME" : 213
+}, {
+  "NAME" : "Titanic #78",
+  "ARRIVE_DATE_TIME" : "2021-04-21T10:00:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5678
+  },
+  "PARKING_TIME" : 170
+}, {
+  "NAME" : "Titanic #139",
+  "ARRIVE_DATE_TIME" : "2021-04-21T15:37:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 16768
+  },
+  "PARKING_TIME" : 503
+}, {
+  "NAME" : "Titanic #183",
+  "ARRIVE_DATE_TIME" : "2021-04-21T19:02:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 12409
+  },
+  "PARKING_TIME" : 372
+}, {
+  "NAME" : "Titanic #244",
+  "ARRIVE_DATE_TIME" : "2021-04-21T21:34:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 83
+  },
+  "PARKING_TIME" : 249
+}, {
+  "NAME" : "Titanic #127",
+  "ARRIVE_DATE_TIME" : "2021-04-22T03:31:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 11205
+  },
+  "PARKING_TIME" : 336
+}, {
+  "NAME" : "Titanic #81",
+  "ARRIVE_DATE_TIME" : "2021-04-22T05:20:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 20436
+  },
+  "PARKING_TIME" : 613
+}, {
+  "NAME" : "Titanic #63",
+  "ARRIVE_DATE_TIME" : "2021-04-22T08:48:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10802
+  },
+  "PARKING_TIME" : 324
+}, {
+  "NAME" : "Titanic #184",
+  "ARRIVE_DATE_TIME" : "2021-04-22T14:16:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 148
+  },
+  "PARKING_TIME" : 444
+}, {
+  "NAME" : "Titanic #279",
+  "ARRIVE_DATE_TIME" : "2021-04-22T16:08:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 126
+  },
+  "PARKING_TIME" : 378
+}, {
+  "NAME" : "Titanic #232",
+  "ARRIVE_DATE_TIME" : "2021-04-22T21:08:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 10563
+  },
+  "PARKING_TIME" : 316
+}, {
+  "NAME" : "Titanic #119",
+  "ARRIVE_DATE_TIME" : "2021-04-23T12:45:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 70
+  },
+  "PARKING_TIME" : 210
+}, {
+  "NAME" : "Titanic #111",
+  "ARRIVE_DATE_TIME" : "2021-04-23T16:49:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10929
+  },
+  "PARKING_TIME" : 327
+}, {
+  "NAME" : "Titanic #83",
+  "ARRIVE_DATE_TIME" : "2021-04-23T17:42:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 6933
+  },
+  "PARKING_TIME" : 207
+}, {
+  "NAME" : "Titanic #135",
+  "ARRIVE_DATE_TIME" : "2021-04-23T18:01:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 202
+  },
+  "PARKING_TIME" : 606
+}, {
+  "NAME" : "Titanic #265",
+  "ARRIVE_DATE_TIME" : "2021-04-23T20:39:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 16164
+  },
+  "PARKING_TIME" : 484
+}, {
+  "NAME" : "Titanic #15",
+  "ARRIVE_DATE_TIME" : "2021-04-23T23:31:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18677
+  },
+  "PARKING_TIME" : 560
+}, {
+  "NAME" : "Titanic #105",
+  "ARRIVE_DATE_TIME" : "2021-04-24T05:55:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 9812
+  },
+  "PARKING_TIME" : 294
+}, {
+  "NAME" : "Titanic #160",
+  "ARRIVE_DATE_TIME" : "2021-04-24T10:29:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 19454
+  },
+  "PARKING_TIME" : 583
+}, {
+  "NAME" : "Titanic #68",
+  "ARRIVE_DATE_TIME" : "2021-04-24T12:21:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 16954
+  },
+  "PARKING_TIME" : 508
+}, {
+  "NAME" : "Titanic #284",
+  "ARRIVE_DATE_TIME" : "2021-04-24T13:39:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 2964
+  },
+  "PARKING_TIME" : 88
+}, {
+  "NAME" : "Titanic #248",
+  "ARRIVE_DATE_TIME" : "2021-04-24T19:27:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 19801
+  },
+  "PARKING_TIME" : 594
+}, {
+  "NAME" : "Titanic #205",
+  "ARRIVE_DATE_TIME" : "2021-04-24T19:39:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 5307
+  },
+  "PARKING_TIME" : 159
+}, {
+  "NAME" : "Titanic #163",
+  "ARRIVE_DATE_TIME" : "2021-04-24T20:51:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 14268
+  },
+  "PARKING_TIME" : 428
+}, {
+  "NAME" : "Titanic #256",
+  "ARRIVE_DATE_TIME" : "2021-04-24T21:12:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18011
+  },
+  "PARKING_TIME" : 540
+}, {
+  "NAME" : "Titanic #226",
+  "ARRIVE_DATE_TIME" : "2021-04-25T00:50:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 89
+  },
+  "PARKING_TIME" : 267
+}, {
+  "NAME" : "Titanic #224",
+  "ARRIVE_DATE_TIME" : "2021-04-25T01:09:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1222
+  },
+  "PARKING_TIME" : 36
+}, {
+  "NAME" : "Titanic #143",
+  "ARRIVE_DATE_TIME" : "2021-04-25T01:17:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19823
+  },
+  "PARKING_TIME" : 594
+}, {
+  "NAME" : "Titanic #174",
+  "ARRIVE_DATE_TIME" : "2021-04-25T02:55:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 8391
+  },
+  "PARKING_TIME" : 251
+}, {
+  "NAME" : "Titanic #97",
+  "ARRIVE_DATE_TIME" : "2021-04-25T05:38:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 199
+  },
+  "PARKING_TIME" : 597
+}, {
+  "NAME" : "Titanic #108",
+  "ARRIVE_DATE_TIME" : "2021-04-25T06:59:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 3659
+  },
+  "PARKING_TIME" : 109
+}, {
+  "NAME" : "Titanic #27",
+  "ARRIVE_DATE_TIME" : "2021-04-25T08:03:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 6638
+  },
+  "PARKING_TIME" : 199
+}, {
+  "NAME" : "Titanic #4",
+  "ARRIVE_DATE_TIME" : "2021-04-25T12:45:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 9256
+  },
+  "PARKING_TIME" : 277
+}, {
+  "NAME" : "Titanic #58",
+  "ARRIVE_DATE_TIME" : "2021-04-25T14:30:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 18117
+  },
+  "PARKING_TIME" : 543
+}, {
+  "NAME" : "Titanic #260",
+  "ARRIVE_DATE_TIME" : "2021-04-25T16:10:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 11256
+  },
+  "PARKING_TIME" : 337
+}, {
+  "NAME" : "Titanic #90",
+  "ARRIVE_DATE_TIME" : "2021-04-25T17:33:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 11823
+  },
+  "PARKING_TIME" : 354
+}, {
+  "NAME" : "Titanic #291",
+  "ARRIVE_DATE_TIME" : "2021-04-25T17:49:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 74
+  },
+  "PARKING_TIME" : 222
+}, {
+  "NAME" : "Titanic #55",
+  "ARRIVE_DATE_TIME" : "2021-04-25T19:13:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 16077
+  },
+  "PARKING_TIME" : 482
+}, {
+  "NAME" : "Titanic #72",
+  "ARRIVE_DATE_TIME" : "2021-04-25T21:46:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10266
+  },
+  "PARKING_TIME" : 307
+}, {
+  "NAME" : "Titanic #238",
+  "ARRIVE_DATE_TIME" : "2021-04-25T23:42:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 167
+  },
+  "PARKING_TIME" : 501
+}, {
+  "NAME" : "Titanic #61",
+  "ARRIVE_DATE_TIME" : "2021-04-26T01:15:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 59
+  },
+  "PARKING_TIME" : 177
+}, {
+  "NAME" : "Titanic #195",
+  "ARRIVE_DATE_TIME" : "2021-04-26T03:22:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 14807
+  },
+  "PARKING_TIME" : 444
+}, {
+  "NAME" : "Titanic #50",
+  "ARRIVE_DATE_TIME" : "2021-04-26T05:09:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 18544
+  },
+  "PARKING_TIME" : 556
+}, {
+  "NAME" : "Titanic #85",
+  "ARRIVE_DATE_TIME" : "2021-04-26T11:59:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 3413
+  },
+  "PARKING_TIME" : 102
+}, {
+  "NAME" : "Titanic #148",
+  "ARRIVE_DATE_TIME" : "2021-04-26T12:42:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 13871
+  },
+  "PARKING_TIME" : 416
+}, {
+  "NAME" : "Titanic #35",
+  "ARRIVE_DATE_TIME" : "2021-04-26T15:18:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 13570
+  },
+  "PARKING_TIME" : 407
+}, {
+  "NAME" : "Titanic #115",
+  "ARRIVE_DATE_TIME" : "2021-04-26T15:56:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 8165
+  },
+  "PARKING_TIME" : 244
+}, {
+  "NAME" : "Titanic #262",
+  "ARRIVE_DATE_TIME" : "2021-04-26T20:25:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 18828
+  },
+  "PARKING_TIME" : 564
+}, {
+  "NAME" : "Titanic #196",
+  "ARRIVE_DATE_TIME" : "2021-04-27T00:12:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 8562
+  },
+  "PARKING_TIME" : 256
+}, {
+  "NAME" : "Titanic #194",
+  "ARRIVE_DATE_TIME" : "2021-04-27T02:20:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 13213
+  },
+  "PARKING_TIME" : 396
+}, {
+  "NAME" : "Titanic #74",
+  "ARRIVE_DATE_TIME" : "2021-04-27T07:16:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 111
+  },
+  "PARKING_TIME" : 333
+}, {
+  "NAME" : "Titanic #106",
+  "ARRIVE_DATE_TIME" : "2021-04-27T09:27:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 196
+  },
+  "PARKING_TIME" : 588
+}, {
+  "NAME" : "Titanic #274",
+  "ARRIVE_DATE_TIME" : "2021-04-27T13:22:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 6930
+  },
+  "PARKING_TIME" : 207
+}, {
+  "NAME" : "Titanic #197",
+  "ARRIVE_DATE_TIME" : "2021-04-27T15:20:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 168
+  },
+  "PARKING_TIME" : 504
+}, {
+  "NAME" : "Titanic #296",
+  "ARRIVE_DATE_TIME" : "2021-04-27T17:34:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 8247
+  },
+  "PARKING_TIME" : 247
+}, {
+  "NAME" : "Titanic #88",
+  "ARRIVE_DATE_TIME" : "2021-04-27T19:09:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 8413
+  },
+  "PARKING_TIME" : 252
+}, {
+  "NAME" : "Titanic #120",
+  "ARRIVE_DATE_TIME" : "2021-04-28T01:51:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 6181
+  },
+  "PARKING_TIME" : 185
+}, {
+  "NAME" : "Titanic #94",
+  "ARRIVE_DATE_TIME" : "2021-04-28T03:25:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 13
+  },
+  "PARKING_TIME" : 39
+}, {
+  "NAME" : "Titanic #19",
+  "ARRIVE_DATE_TIME" : "2021-04-28T03:40:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 5312
+  },
+  "PARKING_TIME" : 159
+}, {
+  "NAME" : "Titanic #3",
+  "ARRIVE_DATE_TIME" : "2021-04-28T04:52:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 151
+  },
+  "PARKING_TIME" : 453
+}, {
+  "NAME" : "Titanic #25",
+  "ARRIVE_DATE_TIME" : "2021-04-28T09:17:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 20627
+  },
+  "PARKING_TIME" : 618
+}, {
+  "NAME" : "Titanic #51",
+  "ARRIVE_DATE_TIME" : "2021-04-28T09:22:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 14359
+  },
+  "PARKING_TIME" : 430
+}, {
+  "NAME" : "Titanic #168",
+  "ARRIVE_DATE_TIME" : "2021-04-28T10:07:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 15884
+  },
+  "PARKING_TIME" : 476
+}, {
+  "NAME" : "Titanic #270",
+  "ARRIVE_DATE_TIME" : "2021-04-28T13:29:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 4147
+  },
+  "PARKING_TIME" : 124
+}, {
+  "NAME" : "Titanic #67",
+  "ARRIVE_DATE_TIME" : "2021-04-28T13:35:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 9761
+  },
+  "PARKING_TIME" : 292
+}, {
+  "NAME" : "Titanic #209",
+  "ARRIVE_DATE_TIME" : "2021-04-28T13:46:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 8231
+  },
+  "PARKING_TIME" : 246
+}, {
+  "NAME" : "Titanic #165",
+  "ARRIVE_DATE_TIME" : "2021-04-28T19:59:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 6256
+  },
+  "PARKING_TIME" : 187
+}, {
+  "NAME" : "Titanic #188",
+  "ARRIVE_DATE_TIME" : "2021-04-28T22:19:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 18995
+  },
+  "PARKING_TIME" : 569
+}, {
+  "NAME" : "Titanic #43",
+  "ARRIVE_DATE_TIME" : "2021-04-28T23:47:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 118
+  },
+  "PARKING_TIME" : 354
+}, {
+  "NAME" : "Titanic #93",
+  "ARRIVE_DATE_TIME" : "2021-04-29T00:54:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 55
+  },
+  "PARKING_TIME" : 165
+}, {
+  "NAME" : "Titanic #122",
+  "ARRIVE_DATE_TIME" : "2021-04-29T01:14:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 13
+  },
+  "PARKING_TIME" : 39
+}, {
+  "NAME" : "Titanic #180",
+  "ARRIVE_DATE_TIME" : "2021-04-29T02:18:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 7289
+  },
+  "PARKING_TIME" : 218
+}, {
+  "NAME" : "Titanic #62",
+  "ARRIVE_DATE_TIME" : "2021-04-29T02:40:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 18142
+  },
+  "PARKING_TIME" : 544
+}, {
+  "NAME" : "Titanic #38",
+  "ARRIVE_DATE_TIME" : "2021-04-29T03:17:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 3885
+  },
+  "PARKING_TIME" : 116
+}, {
+  "NAME" : "Titanic #33",
+  "ARRIVE_DATE_TIME" : "2021-04-29T06:01:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 5747
+  },
+  "PARKING_TIME" : 172
+}, {
+  "NAME" : "Titanic #179",
+  "ARRIVE_DATE_TIME" : "2021-04-29T06:54:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 148
+  },
+  "PARKING_TIME" : 444
+}, {
+  "NAME" : "Titanic #157",
+  "ARRIVE_DATE_TIME" : "2021-04-29T09:10:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 113
+  },
+  "PARKING_TIME" : 339
+}, {
+  "NAME" : "Titanic #285",
+  "ARRIVE_DATE_TIME" : "2021-04-29T10:13:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 2733
+  },
+  "PARKING_TIME" : 81
+}, {
+  "NAME" : "Titanic #113",
+  "ARRIVE_DATE_TIME" : "2021-04-29T13:24:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 6153
+  },
+  "PARKING_TIME" : 184
+}, {
+  "NAME" : "Titanic #141",
+  "ARRIVE_DATE_TIME" : "2021-04-29T16:28:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 8898
+  },
+  "PARKING_TIME" : 266
+}, {
+  "NAME" : "Titanic #145",
+  "ARRIVE_DATE_TIME" : "2021-04-29T18:43:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19435
+  },
+  "PARKING_TIME" : 583
+}, {
+  "NAME" : "Titanic #91",
+  "ARRIVE_DATE_TIME" : "2021-04-29T23:50:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 1843
+  },
+  "PARKING_TIME" : 55
+}, {
+  "NAME" : "Titanic #271",
+  "ARRIVE_DATE_TIME" : "2021-04-30T03:20:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 13958
+  },
+  "PARKING_TIME" : 418
+}, {
+  "NAME" : "Titanic #36",
+  "ARRIVE_DATE_TIME" : "2021-04-30T06:40:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 8332
+  },
+  "PARKING_TIME" : 249
+}, {
+  "NAME" : "Titanic #199",
+  "ARRIVE_DATE_TIME" : "2021-04-30T09:28:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 15402
+  },
+  "PARKING_TIME" : 462
+}, {
+  "NAME" : "Titanic #6",
+  "ARRIVE_DATE_TIME" : "2021-04-30T10:14:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 20880
+  },
+  "PARKING_TIME" : 626
+}, {
+  "NAME" : "Titanic #48",
+  "ARRIVE_DATE_TIME" : "2021-04-30T10:46:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 21
+  },
+  "PARKING_TIME" : 63
+}, {
+  "NAME" : "Titanic #29",
+  "ARRIVE_DATE_TIME" : "2021-04-30T12:28:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 54
+  },
+  "PARKING_TIME" : 162
+}, {
+  "NAME" : "Titanic #101",
+  "ARRIVE_DATE_TIME" : "2021-04-30T16:36:00",
+  "CARGO" : {
+    "TYPE" : "LIQUID",
+    "WEIGHT" : 19218
+  },
+  "PARKING_TIME" : 576
+}, {
+  "NAME" : "Titanic #41",
+  "ARRIVE_DATE_TIME" : "2021-04-30T17:42:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 53
+  },
+  "PARKING_TIME" : 159
+}, {
+  "NAME" : "Titanic #118",
+  "ARRIVE_DATE_TIME" : "2021-04-30T18:03:00",
+  "CARGO" : {
+    "TYPE" : "CONTAINER",
+    "WEIGHT" : 128
+  },
+  "PARKING_TIME" : 384
+}, {
+  "NAME" : "Titanic #153",
+  "ARRIVE_DATE_TIME" : "2021-04-30T23:30:00",
+  "CARGO" : {
+    "TYPE" : "BULK",
+    "WEIGHT" : 10380
+  },
+  "PARKING_TIME" : 311
+} ]
